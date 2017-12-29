@@ -8,6 +8,7 @@ img, video, audio, iframe, table, form {
   margin-bottom: 20px;
 }
 
-.mr-right {
-  padding-right: 10px;
+.navbar-right {
+  padding: 10px;
+  
 }
